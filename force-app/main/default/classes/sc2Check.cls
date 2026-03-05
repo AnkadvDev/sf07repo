@@ -5,7 +5,7 @@ public with sharing class sc2Check {
     }
      //adding a comment2
     public static void check2() {
-        system.debug('....');
+        system.debug('...chck 2.');
         //done
     }
       //adding a comment3
